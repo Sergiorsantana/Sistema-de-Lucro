@@ -15,3 +15,6 @@ CalculadoraLucro/
 │── requirements.txt    # Dependências do projeto  
 │── README.md           # Documentação do projeto  
 │── lucro_calculado.xlsx (gerado ao salvar os cálculos)
+
+
+![image](https://github.com/user-attachments/assets/a8455f2c-a48d-47c9-b53c-7c3967f39993)
